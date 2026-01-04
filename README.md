@@ -1,7 +1,5 @@
 # Zenith - Peak Performance Interview Coach ⛰️
 
-![Zenith Architecture](/Users/sandeep/.gemini/antigravity/brain/d4b1edf5-0b8c-4926-8ff9-51cbbc63913c/zenith_architecture_diagram_1767521355351.png)
-
 > **"Practice like you play."**
 
 Zenith is a real-time, voice-activated AI Agent designed to simulate high-stakes executive interviews. Built with the **Google Agent Development Kit (ADK)** and the **Gemini 2.0 Multimodal Live API**, it listens to your answers and provides immediate, actionable coaching feedback on both content and delivery.
